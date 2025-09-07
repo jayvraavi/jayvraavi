@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jayvraavi
-- 👀 I’m interested in ... social networks, consumer products
+- 👀 I’m interested in ... social networks, consumer apps
 - 🌱 I’m currently building NomadTable
 - 📫 How to reach me: jay@nomadtable.app
 - ⚡ Fun fact: I love r&b music
